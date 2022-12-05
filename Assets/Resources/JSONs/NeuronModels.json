@@ -1,0 +1,8 @@
+{
+    "SWCDir": "D:\\MouseNeuronModel\\swcs",
+    "SWCAttribDir": "D:\\MouseNeuronModel\\swc_attrs",
+    "OBJDir": "D:\\MouseNeuronModel\\objs",
+    "SWC2OBJDir": "D:\\MouseNeuronModel\\swc2objs",
+    "LoadStart": 0,
+    "LoadNum": 2
+}
